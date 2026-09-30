@@ -28,7 +28,7 @@ Datum dostopa za vse vire: 2026-09-30.
 | 15 | ETtoday / 商業周刊 – 台製BB槍 | https://finance.ettoday.net/news/198719 | ni podatka | medij | C | TW 22億 izvoz, 40億 proizvodnja |
 | 16 | UDN – 台灣是玩具槍王國！業者盼法規鬆綁 | https://money.udn.com/money/story/5612/7445235 | ni podatka | medij | B | TW 70 % ≤3 J, ~10 % svetovnega trga 1,5 mrd USD |
 | 17 | Trade Magazine – 臺灣玩具槍耀國際 | https://www.trademag.org.tw/page/itemsd/?id=7894999&no=21 | ni podatka | zveza/trgovinska revija | B | TW ~30 proizvajalcev, 100+ distributerjev |
-| 18 | Taiwantrade – 全民國防的具體實踐 中華民國玩具槍協會 | https://info.taiwantrade.com/biznews/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E7%9A%84%E5%85%B7%E9%AB%94%E5%AF%A6%E8%B8%90-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%8E%A9%E5%85%B7%E6%A7%8D%E5%8D%94%E6%9C%83-2739333.html | ni podatka | zveza | B | TW proizvodnja 1,5–2,5 mrd USD... (glej JSON) |
+| 18 | Taiwantrade – 全民國防的具體實踐 中華民國玩具槍協會 | https://info.taiwantrade.com/biznews/%E5%85%A8%E6%B0%91%E5%9C%8B%E9%98%B2%E7%9A%84%E5%85%B7%E9%AB%94%E5%AF%A6%E8%B8%90-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%8E%A9%E5%85%B7%E6%A7%8D%E5%8D%94%E6%9C%83-2739333.html | ni podatka | zveza | B | TW proizvodnja 150–250 mio USD/leto (glej opombo spodaj) |
 | 19 | TWAAA – 會員名冊 | https://tw-aaa.org/member/ | ni podatka | zveza | B | TW proizvajalci (ICS, KIC, SRC, LCT) |
 | 20 | Redwolf Airsoft blog – Airsoft in Hong Kong | https://www.redwolfairsoft.com/blog/everything-you-need-to-know-about-airsoft-in-hong-kong | ni podatka | industrija | C | HK velikost dogodkov (200/30) |
 | 21 | Weekend HK – 全港6大War Game場 | https://www.weekendhk.com/%E9%A6%99%E6%B8%AF%E5%A5%BD%E5%8E%BB%E8%99%95/%E5%AE%A4%E5%85%A7%E5%A5%BD%E5%8E%BB%E8%99%95-war-game%E5%A0%B4-js07-1353179/ | ni podatka | medij | C | HK igrišča (izbor 6) |
